@@ -1,0 +1,12 @@
+Se ha superado el límite máximo establecido
+ - Fecha: 21/10/2016
+ - Hora: 13:16:46
+
+Consultas ocurridas en el tiempo 13:16
+1)
+Sentencia SQL: SELECT C.SQL_FULLTEXT, C.SHARABLE_MEM "MEM (BYTES)", C.CPU_TIME "CPU (SEGS)", U.USERNAME FROM V$SQL C, DBA_USERS U where C.first_load_time like '%2016-10-21/13:16%' AND  U.USER_ID = C.PARSING_USER_ID
+Memoria (Bytes): 76592
+CPU (segundos): 0
+Usuario: SYSTEM
+
+

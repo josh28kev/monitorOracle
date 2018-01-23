@@ -1,0 +1,5 @@
+language: english
+
+; Supported languages:
+; -english
+; -spanish

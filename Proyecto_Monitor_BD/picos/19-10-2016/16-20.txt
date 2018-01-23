@@ -1,0 +1,12 @@
+Se ha superado el límite máximo establecido
+ - Fecha: 19/10/2016
+ - Hora: 16:20:34
+
+Consultas ocurridas en el tiempo 13:03
+1)
+Sentencia SQL: select * from v$sql where first_load_time like '%2016-10-17/13:03%' 
+Memoria (Bytes): 84597
+CPU (Segundos): 15625
+Usuario: SYS
+
+

@@ -1,0 +1,2 @@
+proyecto_monitor_bd.vista.Ventana
+proyecto_monitor_bd.vista.PanelDibujo
